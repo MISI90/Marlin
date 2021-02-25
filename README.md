@@ -1,3 +1,5 @@
+# ⚠ This is a branch of Marlin 2.0 configuration for Anet A8 Plus printer with BTT SKR 1.4 motherboard. Feel free to use it for your configurations. ⚠
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
